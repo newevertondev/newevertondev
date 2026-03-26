@@ -5,8 +5,10 @@
 - 💻 Trabalho terceirizado em uma multinacional como Assistente de Suporte Técnico
 
 
+
 <!-- GitHub Stats -->
-![Stats](https://github-readme-stats.vercel.app/api?username=newevertondev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=0)
+![Stats](https://github-readme-stats.vercel.app/api?username=newevertondev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
 
 <!-- Most Used Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newevertondev&layout=compact&langs_count=16&theme=dracula&cache_seconds=0)
