@@ -7,7 +7,7 @@
 
 
 <!-- GitHub Stats -->
-![Stats](https://github-readme-stats.vercel.app/api?username=newevertondev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=monokai&fontFamily=Actor&preferLogin=true">    <img  alt="newevertondev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/newevertondev?cardType=level&theme=monokai&fontFamily=Actor&preferLogin=true" />  </a>
 
 
 <!-- Most Used Languages -->
